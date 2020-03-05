@@ -1,1 +1,7 @@
 # DOMINGUEZ-BARRERA-STALIN-WLADIMIR
+### YOUTUBER LLUE
++ ***STALIN***
+   * HYUUGA
+   - LLUE
+   ### ORDENADAS
+   [SUSCRIBETE A MI CANAL](https://www.youtube.com/channel/UC845SfUfd_5FllLjy9kbr0Q)
