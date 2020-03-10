@@ -15,9 +15,22 @@ public class LLUETIPOSDEDATOS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        imprimirNombre();
+        sumar2numeros(1,2);
+        System.out.println(sumar2numeros(1,2));
         // TODO code application logic here
+   
     }
-    
+        public static void imprimirNombre(){
+    System.out.println("STALIN DOMINGUEZ");
+    }
+public static int sumar2numeros(int n1,int n2){
+    int suma=n1 + n2;
+return suma;
+
+}
+
     //JAJAJJJA DE UNA LINEA//
     
     /*
@@ -29,6 +42,6 @@ public class LLUETIPOSDEDATOS {
     char letras = 'L';
     String cadena = "hola mundo";
     boolean valorbool = false;
-    valorbool = true; 
+    //valorbool = true; 
     boolean valorboola = false;
 }
